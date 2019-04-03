@@ -1,0 +1,6 @@
+﻿  driver.cpp
+e:\all files\programs\c++\salarycomputer\salarycomputer\salarycomputer\driver.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\all files\programs\c++\salarycomputer\salarycomputer\salarycomputer\driver.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\all files\programs\c++\salarycomputer\salarycomputer\salarycomputer\driver.cpp(83): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\all files\programs\c++\salarycomputer\salarycomputer\salarycomputer\driver.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SalaryComputer.vcxproj -> E:\All Files\Programs\C++\SalaryComputer\SalaryComputer\Debug\SalaryComputer.exe
